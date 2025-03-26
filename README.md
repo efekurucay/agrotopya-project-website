@@ -8,7 +8,7 @@ This is the official website of AGROTOPYA, a TÜBİTAK-supported agricultural te
 - Personal Website: [efekurucay.com](https://efekurucay.com)
 
 ## Live Demo
-You can view the live version of the project at [agrotopya.com.tr](https://agrotopya.com.tr)
+You can view the live version of the project at [agrotopya.com.tr](https://agrotopya.com.tr) .
 
 ## Technologies Used
 - HTML5
